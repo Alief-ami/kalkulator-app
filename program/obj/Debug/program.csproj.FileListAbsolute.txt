@@ -1,0 +1,7 @@
+D:\Struktur Data\tugas 01\program\bin\Debug\program.exe.config
+D:\Struktur Data\tugas 01\program\bin\Debug\program.exe
+D:\Struktur Data\tugas 01\program\bin\Debug\program.pdb
+D:\Struktur Data\tugas 01\program\obj\Debug\program.csproj.AssemblyReference.cache
+D:\Struktur Data\tugas 01\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+D:\Struktur Data\tugas 01\program\obj\Debug\program.exe
+D:\Struktur Data\tugas 01\program\obj\Debug\program.pdb
